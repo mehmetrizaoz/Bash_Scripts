@@ -17,7 +17,7 @@
 #                memory.
 #
 # Date       : 18/04/2018
-# Author     : Gokhan ALKAN @ Airties
+# Author     : @ Airties
 #####################################################
 
 # Colors

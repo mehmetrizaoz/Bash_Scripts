@@ -1,4 +1,13 @@
-#!/bin/bash
+#!/bin/sh
+####################################################
+# drive.sh   : google drive rest api usage
+# Usage      : sh drive.sh &
+#
+# Todo List  :
+#
+# Date       : 10/06/2017
+# Author     : Mehmet Rıza ÖZ @ Vestel
+#####################################################
 
 # Google Drive API
 
