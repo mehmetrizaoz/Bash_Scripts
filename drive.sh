@@ -19,8 +19,8 @@ get_file_id() {
 
 set -e
 
-CLIENT_SECRET="89vhQG-VKaCyV0tf_uLttQ3M"
-CLIENT_ID="857131469426-knedno1ikclf35tt308gp4qb1cm68o91.apps.googleusercontent.com"
+CLIENT_SECRET="to be filled"
+CLIENT_ID="to be filled"
 BOUNDARY="foo_bar_baz"
 SCOPE="https://docs.google.com/feeds"
 MIME_TYPE="application/octet-stream"
